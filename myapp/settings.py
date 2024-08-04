@@ -81,10 +81,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'blog',
-        'USER': 'root',
-        'PASSWORD': 'CHAN$123',
-        'HOST': 'localhost',
-        'PORT': '3306'
+        'USER': 'chandrashekar',
+        'PASSWORD': 'AVNS_YjUkD_MIbK71u9fHwl2',
+        'HOST': 'mysql-187893c-blogwebsite6868-5ba4.e.aivencloud.com',
+        'PORT': '15791'
     }
 
 }
